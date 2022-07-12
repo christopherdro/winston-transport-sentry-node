@@ -13,7 +13,7 @@ yarn-error.log
 .vscode
 
 # Specific
-dist
+# dist
 
 # Compile tests
 test/*.js
